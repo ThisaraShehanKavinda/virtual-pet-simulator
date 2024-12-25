@@ -1,5 +1,5 @@
 import React from 'react';
-import './PetStats.css';
+import '../styles/PetStats.css';
 
 const PetStats = ({ stats }) => {
   return (
