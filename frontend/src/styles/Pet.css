@@ -1,0 +1,18 @@
+.pet-container {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .pet-image {
+    width: 200px;
+    height: auto;
+  }
+  
+  .actions {
+    margin-top: 1rem;
+  }
+  
+  .actions button {
+    margin: 0.5rem;
+  }
+  
