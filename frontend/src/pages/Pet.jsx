@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import petImage from '../assets/pet.png';
 import ActionButton from '../components/ActionButton';
 import PetStats from '../components/PetStats';
-import './Pet.css';
+import '../styles/Pet.css';
 
 const Pet = () => {
   const [petStats, setPetStats] = useState({
